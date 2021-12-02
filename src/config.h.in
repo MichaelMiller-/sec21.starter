@@ -1,0 +1,7 @@
+#pragma once
+
+constexpr auto VERSION_MAJOR = @sec21.starter_VERSION_MAJOR@;
+constexpr auto VERSION_MINOR = @sec21.starter_VERSION_MINOR@;
+
+constexpr char APPLICATION_NAME[] = "@PROJECT_NAME@";
+
